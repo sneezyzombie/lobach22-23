@@ -1,0 +1,4 @@
+﻿  hw3Var1.c
+C:\Users\Данила\source\repos\lobach\hw3Var1\hw3Var1.c(11,2): warning C4013: Sleep: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Данила\source\repos\lobach\hw3Var1\hw3Var1.c(12,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  hw3Var1.vcxproj -> C:\Users\Данила\source\repos\lobach\x64\Debug\hw3Var1.exe

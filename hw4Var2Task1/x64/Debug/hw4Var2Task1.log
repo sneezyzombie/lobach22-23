@@ -1,0 +1,3 @@
+﻿  hw4Var2Task1.c
+C:\Users\Данила\source\repos\lobach\hw4Var2Task1\hw4Var2Task1.c(40,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  hw4Var2Task1.vcxproj -> C:\Users\Данила\source\repos\lobach\x64\Debug\hw4Var2Task1.exe

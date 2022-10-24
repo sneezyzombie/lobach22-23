@@ -1,0 +1,11 @@
+﻿  hw4Var1.c
+C:\Users\Данила\source\repos\lobach\hw4Var1\hw4Var1.c(9,2): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Данила\source\repos\lobach\hw4Var1\hw4Var1.c(22,12): warning C4047: return: "char" отличается по уровням косвенного обращения от "char *"
+C:\Users\Данила\source\repos\lobach\hw4Var1\hw4Var1.c(29,12): warning C4047: return: "char" отличается по уровням косвенного обращения от "char *"
+C:\Users\Данила\source\repos\lobach\hw4Var1\hw4Var1.c(49,12): warning C4047: return: "char" отличается по уровням косвенного обращения от "char *"
+C:\Users\Данила\source\repos\lobach\hw4Var1\hw4Var1.c(62,12): warning C4047: return: "char" отличается по уровням косвенного обращения от "char *"
+C:\Users\Данила\source\repos\lobach\hw4Var1\hw4Var1.c(75,12): warning C4047: return: "char" отличается по уровням косвенного обращения от "char *"
+C:\Users\Данила\source\repos\lobach\hw4Var1\hw4Var1.c(94,12): warning C4047: return: "char" отличается по уровням косвенного обращения от "char *"
+C:\Users\Данила\source\repos\lobach\hw4Var1\hw4Var1.c(111,21): warning C4047: =: "char" отличается по уровням косвенного обращения от "char [2]"
+C:\Users\Данила\source\repos\lobach\hw4Var1\hw4Var1.c(113,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  hw4Var1.vcxproj -> C:\Users\Данила\source\repos\lobach\x64\Debug\hw4Var1.exe

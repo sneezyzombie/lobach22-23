@@ -1,0 +1,3 @@
+﻿  hw1Var4.c
+C:\Users\Данила\source\repos\lobach\hw1Var4\hw1Var4.c(18,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  hw1Var4.vcxproj -> C:\Users\Данила\source\repos\lobach\x64\Debug\hw1Var4.exe
